@@ -1,0 +1,11 @@
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\bin\Debug\Paint1.exe.config
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\bin\Debug\Paint1.exe
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\bin\Debug\Paint1.pdb
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\obj\Debug\Paint1.csproj.AssemblyReference.cache
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\obj\Debug\Paint1.CustomColorDialog.resources
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\obj\Debug\Paint1.Form1.resources
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\obj\Debug\Paint1.Properties.Resources.resources
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\obj\Debug\Paint1.csproj.GenerateResource.cache
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\obj\Debug\Paint1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\obj\Debug\Paint1.exe
+C:\Users\Administrador.DESKTOP-L45MOTO\Downloads\paint-master\paint-master\obj\Debug\Paint1.pdb
